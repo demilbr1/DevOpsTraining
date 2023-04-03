@@ -7,8 +7,8 @@
     <property environment="env"/>
     <property name="ECLIPSE_HOME" value="../../../../eclipse/jee-2023-03/Eclipse.app/Contents/Eclipse/"/>
     <property name="debuglevel" value="source,lines,vars"/>
-    <property name="target" value="8"/>
-    <property name="source" value="8"/>
+    <property name="target" value="11"/>
+    <property name="source" value="11"/>
     <path id="JavaDevOpsTest.classpath">
         <pathelement location="bin"/>
     </path>
