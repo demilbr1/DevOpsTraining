@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+7ebe20a2ee27b4aa35079d9fb78d83ac555926fe refs/remotes/origin/dependabot/maven/java-tomcat-sample-docker/junit-junit-4.13.1
+3055f52b0fb58b5b7a5c8f1e11a1cb048c0efa78 refs/remotes/origin/dependabot/maven/java-tomcat-sample/junit-junit-4.13.1
+b754f8a9ef715dd4bf2fa5a4a627531e05b4caf7 refs/remotes/origin/master
