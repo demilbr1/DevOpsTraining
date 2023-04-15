@@ -8,6 +8,7 @@ job('First-Maven-Project-Via-DSL') {
     }
     steps {
         maven('clean package', 'Jenkins_Upgradev3/maven-samples/single-module/pom.xml')
+        maven {mavenInstallation('Maven 3.1.1')}
     }
     publishers {
         //archive the war file generated
